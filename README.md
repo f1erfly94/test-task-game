@@ -23,7 +23,7 @@ A user can bet whether the result of a dice throw (1-100) will be **greater or s
 
 ```bash
 # Clone the repo
-git clone https://github.com/f1erfly94/FrontEnd-Test-game.git
+git clone https://github.com/f1erfly94/test-task-game.git
 cd dice-game
 
 # Install dependencies
