@@ -32,7 +32,7 @@ export default function DiceGame() {
     const [result, setResult] = useState<number | null>(null);
     const [gameHistory, setGameHistory] = useState<GameRecord[]>([]);
     const [showResult, setShowResult] = useState(false);
-    const [hasWon, setHasWon] = useState(false);
+    const [, setHasWon] = useState(false);
     const [gameId, setGameId] = useState(1);
 
     const formatTime = () => {
